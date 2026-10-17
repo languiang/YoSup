@@ -1,0 +1,15 @@
+[
+  {
+    "id": "",
+    "to": [],
+    "createdAt": null,
+    "notifications" : [
+      {
+        "timestamp": null,
+        "message": "",
+        "status" : "",
+        "readOn": null
+      }
+    ]
+  }
+]
